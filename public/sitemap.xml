@@ -2,23 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/getting-started/</loc>
+    <loc>//localhost:1313/docs/me/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/docs/customization/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/docs/faq/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
@@ -26,67 +11,30 @@
     <loc>//localhost:1313/tags/installation/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/css/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/development/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/post3/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/html/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/post4/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/another-test/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/category-1/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/post1/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/category-2/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/%D0%BF%D1%80%D0%BE%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
   </url><url>
-    <loc>//localhost:1313/post/my-first-post/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/%D1%81%D1%82%D0%B8%D1%85/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/test/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
   </url><url>
-    <loc>//localhost:1313/post/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/post2/</loc>
   </url>
 </urlset>
